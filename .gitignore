@@ -58,6 +58,4 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
-libs
-src/models/vouching-firebase.json
+
